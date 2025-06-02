@@ -74,8 +74,6 @@ int main() {
 Enter Prefix Expression: -+7*45+20
 Result: 25
 
-![image](https://github.com/user-attachments/assets/c2863f62-6d17-4b34-a202-2dc259e837dd)
-
 ```
 
 
